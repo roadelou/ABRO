@@ -8,7 +8,7 @@ The strategy I used for the compilation is that of a finite automaton, but bette
 
 # Usage
 
-To compile the code, just run `make` from the root of the repository. This should produce a `abro.elf` file in the build directory. From here, you can run the ABRO program wrapped inside of a CLI interface.
+To compile the code, just run `make` from the root of the repository. This should produce a `abro.elf` file in the build directory. From there, you can run the ABRO program wrapped inside of a CLI interface.
 
 An example usage would be:
 
